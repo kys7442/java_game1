@@ -12,5 +12,4 @@ public class Main {
 		//http://wallpaperswide.com - 무료 이미지 
 		//www.javazoom.net - 자바 mp3 라이브러리
 	}
-
 }
